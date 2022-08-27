@@ -3,13 +3,15 @@
 📍Location : Seoul / Pangyo
 <br />
 🎓 Ewha Womans University
+<br />
+📂 Now in AD Monetization Industry
 <br /> <br />
-🧑‍💻 Studying... : <br /> 
+🧑‍💻 Studying... <br /> 
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-5EA0EB?style=flat-square&logo=MySQL&logoColor=white"/>
 
 
-🛠 Tools : <br />
+🛠 Tools <br />
 <img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
 
