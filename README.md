@@ -1,5 +1,3 @@
-👋 Hi, I’m Jeongmin
-<br /> <br />
 📍Location : Seoul / Pangyo
 <br />
 🎓 Ewha Womans University
@@ -12,11 +10,11 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
-🛠 Tools <br />
+📈 BI Tools <br />
 <img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
 
-📝 Editor <br />
+📝 Editors <br />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
 
