@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
-📈 BI Tools <br /> <br /> 
+ <br /> 📈 BI Tools <br /> <br /> 
 <img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
 
-📝 Editors <br /> <br /> 
+ <br /> 📝 Editors <br /> <br /> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
 
