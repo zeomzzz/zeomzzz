@@ -9,7 +9,7 @@
 🧑‍💻 Studying... <br /> 
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-5EA0EB?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/html-FF5E00?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
 🛠 Tools <br />
