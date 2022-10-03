@@ -7,14 +7,18 @@
 📂 Now in AD Monetization Industry
 <br /> <br />
 🧑‍💻 Studying... <br /> 
-<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-5EA0EB?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
 🛠 Tools <br />
 <img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
+
+📝 Editor <br />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
 
 <!---
 zeomzzz/zeomzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
