@@ -16,7 +16,7 @@
  <br /> 📈 BI Tools <br /> <br /> 
 <img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeomzzz&layout=compact)](https://github.com/zeomzzz/github-readme-stats)
 
 <!---
