@@ -16,10 +16,8 @@
  <br /> 📈 BI Tools <br /> <br /> 
 <img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
-
- <br /> 📝 Editors <br /> <br /> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeomzzz&layout=compact)](https://github.com/zeomzzz/github-readme-stats)
 
 <!---
 zeomzzz/zeomzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
