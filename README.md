@@ -3,6 +3,8 @@
 🎓 Ewha Womans University
 <br />
 📂 Now in AD Monetization Industry
+<br />
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <br /> <br />  <br /> 
 🧑‍💻 Studying... <br />   <br /> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
