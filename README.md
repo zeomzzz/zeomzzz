@@ -7,7 +7,7 @@
 <br /> This is my ...
 <a href="https://safe-thread-2aa.notion.site/dev-log-2c1773075a4e49feba4fb6a3573e580f"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br /> <br />  <br /> 
-🧑‍💻 Studying... 
+🧑‍💻 Studying...  <br /> <br /> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
