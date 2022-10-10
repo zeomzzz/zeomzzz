@@ -5,8 +5,8 @@
 <br />
 📂 Now in AD Monetization Industry
 <br /> This is my ...
-<a href="https://velog.io/@zeomzzz"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://safe-thread-2aa.notion.site/dev-log-2c1773075a4e49feba4fb6a3573e580f"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@zeomzzz"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/><target="_blank"></a>
+<a href="https://safe-thread-2aa.notion.site/dev-log-2c1773075a4e49feba4fb6a3573e580f"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/><target="_blank"></a>
 <br /> <br />  <br /> 
 🧑‍💻 Studying...  <br /> <br /> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
