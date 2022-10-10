@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeomzzz&layout=compact)](https://github.com/zeomzzz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeomzzz&layout=compact)
 
 <!---
 zeomzzz/zeomzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
