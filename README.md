@@ -1,6 +1,4 @@
 <div align="center">   
-📍Location : Seoul / Pangyo
-<br />
 🎓 Ewha Womans University
 <br />
 📂 Now in AD Monetization Industry
