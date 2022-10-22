@@ -16,7 +16,7 @@
 
 
  <br /> 📈 BI Tools <br /> <br /> 
-<img src="https://img.shields.io/badge/datastudio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker Studio-2765AC?style=flat-square&logo=Google&logoColor=white"/>
 
 
 <!---
