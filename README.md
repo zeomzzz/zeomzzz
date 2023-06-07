@@ -1,6 +1,9 @@
 <div align="center">   
 <br /> This is my ...
-<a href="https://stillloading.tistory.com/"/><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<br />
+  Blog : <a href="https://stillloading.tistory.com/"/><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<br />
+  TIL : <a href="https://zeomzzz.github.io/"/><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 <br /> <br />  <br /> 
 🧑‍💻   <br /> <br /> 
 
