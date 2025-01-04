@@ -1,13 +1,4 @@
 
-### Tech Blog
-
-<a href="https://stillloading.tistory.com/"/><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<a href="https://zeomzzz.github.io/"/><img src="https://img.shields.io/badge/github.io-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
-
-(~ 2023 : Github.io, 2024 ~ : Tistory)
-
-<br>
-
 ### Tech Stacks
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
